@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://ranjeethambire.github.io/](https://ranjeethambire.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ranjeethambire.github.io/)
 
 - 💬 Ask me about **JAVA**
 
